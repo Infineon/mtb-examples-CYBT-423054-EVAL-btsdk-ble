@@ -1,2 +1,2 @@
-# mtb-examples-CYBT-423054-02-btsdk-ble
+# mtb-examples-CYBT-423054-EVAL-btsdk-ble
 TBD
